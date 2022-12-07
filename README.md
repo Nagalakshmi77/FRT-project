@@ -6,7 +6,9 @@ This is a web based application developed for Life Style based website in india
 
 
 **Project Link** -https://victorious-forest-059141200.2.azurestaticapps.net
+
 **project demo video link** -
+
 **Github(repository link)** -https://github.com/Nagalakshmi77/FRT-project
 
 ## Azure technologies used for Project
