@@ -1,19 +1,19 @@
 # ✨ Fashion Mantra ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for Life Style based website in india
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based Life Style application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -
-**project demo video link** - 
+**Project Link** -https://victorious-forest-059141200.2.azurestaticapps.net
+**project demo video link** -
+**Github(repository link)** -
 
 ## Azure technologies used for Project
 
 - Static web apps
-- Health bot
 
-## Features and Functionalities 😃
+## Features and Functionalities of Project
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
@@ -21,6 +21,20 @@ This is a web based application developed for health related based website in in
 - Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
+
+## Deployment in Azure
+-Start to Create Static Web App
+
+-Select Subscription, Create Resource Group
+
+-Filled the Details of App informarion and Deployed Using through GitHub
+
+-Reviwed and Cross Checked everything and Started to Deploy
+
+-After Deploying Resource Group, Checked and run CI/CD in github actions
+
+-Finally Deployed my Static Web App
+
 
 ## Screenshots
 ![Screenshot (33)](https://user-images.githubusercontent.com/117429632/206090299-2da3716a-2a37-4c00-b288-134fe299f89d.png)
