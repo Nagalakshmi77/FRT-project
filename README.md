@@ -40,6 +40,11 @@ This is a web based application developed for health related based website in in
 ### Contact Us -
 ![Screenshot (32)](https://user-images.githubusercontent.com/117429632/206091076-5107849c-1b31-46fa-87cd-f7263514706a.png)
 
+### Work Flow -
+
+### Project Dashboard -
+![Screenshot (34)](https://user-images.githubusercontent.com/117429632/206091780-fbe466e4-d80c-48e9-aced-24189e4aba39.png)
+
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
