@@ -53,3 +53,6 @@ This is a web based application developed for health related based website in in
 - CSS
 - Bootstrap
 - JavaScript
+
+## Privacy Policies
+https://www.freeprivacypolicy.com/live/a12b1292-b653-4a45-a17c-62bf1368a26e
