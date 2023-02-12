@@ -14,6 +14,7 @@ This is a web based application developed for Life Style based website in india
 ## Azure technologies used for Project
 
 - Static web apps
+- azure bot services
 
 ## Features and Functionalities of Project
 
