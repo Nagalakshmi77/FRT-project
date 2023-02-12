@@ -62,6 +62,8 @@ This is a web based application developed for Life Style based website in india
 ### Project Dashboard -
 ![Screenshot (34)](https://user-images.githubusercontent.com/117429632/206091780-fbe466e4-d80c-48e9-aced-24189e4aba39.png)
 
+![Screenshot (67)](https://user-images.githubusercontent.com/117429632/218305415-8b4850e1-de07-4eea-8520-7c45c2510047.png)
+
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
