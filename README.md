@@ -7,7 +7,7 @@ This is a web based application developed for Life Style based website in india
 
 **Project Link** -https://victorious-forest-059141200.2.azurestaticapps.net
 
-**project demo video link** -
+**project demo video link** -https://youtu.be/qvzeCl1Y8II
 
 **Github(repository link)** -https://github.com/Nagalakshmi77/FRT-project
 
